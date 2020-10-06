@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Ansible*
+_Docker_
+
+**Jenkins**
+__Gitlab__
+
+_I love **CI/CD** tools_
